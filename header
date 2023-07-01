@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="#"><img src="https://assets.website-files.com/644bd4412d68a90f78fd3896/644fcc5ebedd367c4e1434e5_logo.svg" alt="logo"></a>
+            <ul class="menu">
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Properties</a></li>
+                <li><a href="#">Blog
+                    <ul class="sub-menu">
+                        <li><a href="#">Blog1</a></li>
+                        <li><a href="#">Blog2</a></li>
+                    </ul>
+                </a></li>
+            </ul>
+            <button class="link-btn">Contact Us</button>
+        </div>
+    </header>
+    <section>
+        <div class="sec">
+            <h1>Discover Your Ideal<br> Living Space</h1>
+            <div class="sec-1">
+                <p>Explore our latest collection of premium properties and find your<br>dream home today. From luxurious estates to trendy urban<br>condos, we have something for every lifestyle and budget.</p>
+            </div>
+        </div>
+        <div class="post">
+            <div class="post1">
+                <a href="#"><img src="" alt=""></a>
+            </div>
+            <div class="post2">
+
+            </div>
+        </div>
+    </section>
+</body>
+</html>
